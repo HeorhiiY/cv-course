@@ -1,0 +1,1 @@
+* Final project for computer vision: objects detection from satellite images
